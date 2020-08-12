@@ -9,3 +9,12 @@
 .shadow {
     border : 2px solid blue
 }
+
+body {
+    background-color: palegoldenrod ;
+}
+
+img {
+    width : 300px ;
+    height : 230px
+}
